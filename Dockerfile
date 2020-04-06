@@ -1,0 +1,2 @@
+FROM gcr.io/knative-releases/knative.dev/eventing/cmd/channel_broker@sha256:36a750d4bb0aefcfb20b3d5bba0ff846c62f11cadfc41a42702a4b2d98f3a176
+MAINTAINER zmyer
